@@ -9,7 +9,6 @@ This is a simple chatbot web application that allows users to interact with an A
 
 * HTML
 * CSS
-* JavaScript
 * AI Language Model 
 
 ## Usage
